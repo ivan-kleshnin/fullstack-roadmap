@@ -1,6 +1,6 @@
 # Junior Fullstack JS Developer 
 
-![Roadmap](./roadmap.png)
+![Roadmap](./fullstack.png)
 
 #### Side Notes
 
