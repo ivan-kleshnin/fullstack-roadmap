@@ -62,6 +62,12 @@ Now, to help you further, for each topic I picked the sources I personally consi
 
 * [HTTP Fundamentals](https://www.pluralsight.com/courses/xhttp-fund) (PluralSight) OR [HTTP Basics](https://www.pluralsight.com/courses/xhttp-fund) (EggHead)
 
----
+## License
 
-Please give us a ★ to support the creation of a free content.
+[**CCA 3.0**](https://creativecommons.org/licenses/by/3.0/deed.en)
+
+(Free to share and modify. **Attribution required**)
+
+--- 
+
+Please ★ this repo if you care about the further updates.
